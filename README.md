@@ -204,7 +204,7 @@ Es un curso instrumental-metodológico de carácter teórico-práctico, en el qu
     <td rowspan="2">15%</td></tr>
     
 <tr>    
-    <td>Comprende conceptualmente la lógica, límites y alcances de los modelos de ecuaciones estructurales.</td>
+    <td>Lee e interpreta los resultados de modelos de ecuaciones estructurales publicados.</td>
 </tr>
     
 </table>
@@ -227,26 +227,22 @@ Es un curso instrumental-metodológico de carácter teórico-práctico, en el qu
     <td>Explicación de la introducción de un estudio y cómo este sustenta el propósito del estudio.</td>
      <td>Comprende la relación entre el estado del arte y el planteamiento del propósito del estudio</td>
     <td>Dado un tema psicológico, el estudiante revisa la literatura y presenta un propósito de estudio pertinente</td>
-    <td >20%</td></tr>
-  
-  <tr>
+    <td >20%</td></tr>  
+<tr>
     <td>Explicación de cómo el propósito del estudio lleva a un diseño metodológico que implica tablas y chi cuadrado.</td>
      <td>Comprende la relación entre el propósito del estudio y el diseño metodológico, con énfasis en el análisis estadístico</td>
     <td>Dado un propósito de estudio, el estudiante diseña un método en donde resultan pertinentes las tablas y la chi cuadrado  </td>
-    <td >20%</td></tr>
-    
-    <tr>
+    <td >20%</td></tr>    
+<tr>
     <td>Explicación del sustento estadístico de las tablas y la chi cuadrado.</td>
      <td>Comprende la fórmula, los alcances y limitaciones de las pruebas estadísticas revisadas.</td>
     <td>Reporte oral o escrito sobre el sustento estadístico de las pruebas.</td>
     <td >20%</td></tr>
-
 <tr>
     <td>Ejecución de las pruebas utilizando SPSS.Interpretación estadística y psicológica de los resultados.</td>
      <td>Ejecuta el análisis estadístico y lo interpreta psicológicamente.</td>
     <td>Dado un conjunto de datos, el alumno ejecuta las pruebas estadísticas e interpreta los resultados.</td>
-    <td >20%</td></tr>
-    
+    <td >20%</td></tr>   
 <tr>
     <td>Contraste de resultados con la literatura pertinente.</td>
      <td>Discute los resultados en el contexto de estudios similares.</td>
@@ -275,21 +271,16 @@ Es un curso instrumental-metodológico de carácter teórico-práctico, en el qu
     <td rowspan="2">Reporte de problema psicológico en donde el análisis factorial es pertinente, ejecución e interpretación de análisis factorial exploratorio</td>
     <td rowspan="2">70%</td></tr>
   
-  <tr>
+<tr>
     <td>Práctica: ejecución e interpretación del análisis factorial exploratorio.</td>
      <td>Ejecuta en programa estadístico un análisis factorial exploratorio e interpreta psicológicamente los resultados</td>
-     
-
-    
-    
 <tr>
     <td rowspan="2">Introducción al análisis factorial confirmatorio</td>
     <td>Clase: introducción al análisis factorial confirmatorio.</td>
      <td rowspan="2">Lee correctamente los resultados del análisis factorial confirmatorio de estudios psicológicos publicados</td>
     <td rowspan="2">Interpretación correcta de resultados de análisis factorial confirmatorio</td>
-    <td rowspan="2">30%</td></tr>
-  
-  <tr>
+    <td rowspan="2">30%</td></tr>  
+<tr>
     <td>Práctica: ejecución e interpretación del análisis factorial exploratorio.</td>
 
 </table>
