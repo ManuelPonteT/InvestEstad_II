@@ -27,37 +27,39 @@ Es un curso instrumental-metodológico de carácter teórico-práctico, en el qu
 
 <table>
   <tr>
-    <td>COMPETENCIA GLOBAL</td>
-  </tr>
-<tr>
-    <td>INVESTIGA</td>
+    <td><b>COMPETENCIA GLOBAL</b></td>
   </tr>
 
   <tr>
-    <td>Investiga, teniendo en cuenta el estado del arte de las líneas de investigación de la disciplina y la realidad nacional, con coherencia epistemológica. Aplica pertinentemente el método científico y las herramientas de investigación para resolver el problema planteado y busca ampliar el conocimiento de manera crítica, reflexiva y creativa. Además, incorpora los criterios de ética en investigación y considera los impactos psicológicos, sociales y ambientales para una acción responsable. Todo lo anterior supone la capacidad de exponer su trabajo al juicio de otros.</td>
+    <td>INVESTIGA, teniendo en cuenta el estado del arte de las líneas de investigación de la disciplina y la realidad nacional, con coherencia epistemológica. Aplica pertinentemente el método científico y las herramientas de investigación para resolver el problema planteado y busca ampliar el conocimiento de manera crítica, reflexiva y creativa. Además, incorpora los criterios de ética en investigación y considera los impactos psicológicos, sociales y ambientales para una acción responsable. Todo lo anterior supone la capacidad de exponer su trabajo al juicio de otros.</td>
   </tr>
 </table>
 
-3.1. Competencia Específica. Plantea el problema de investigación, acorde con el estado de la cuestión y la realidad nacional; diseña el método pertinente para resolverlo; y desarrolla planes de investigación para aproximarse al conocimiento de problemáticas psicológicas y sociales relevantes; analiza, discute y publica los resultados. Todo ello con una actitud de rigor científico, curiosidad y autocrítica permanente, mostrando una conducta ética a lo largo de todo el proceso de investigación.
+**COMPETENCIAS ESPECIFICAS**
+**3.1.** Plantea el problema de investigación, acorde con el estado de la cuestión y la realidad nacional; diseña el método pertinente para resolverlo; y desarrolla planes de investigación para aproximarse al conocimiento de problemáticas psicológicas y sociales relevantes; analiza, discute y publica los resultados. Todo ello con una actitud de rigor científico, curiosidad y autocrítica permanente, mostrando una conducta ética a lo largo de todo el proceso de investigación.
 
- * Criterio de desempeño. Identifica y propone fenómenos de estudio relevantes al contexto social y los justifica con coherencia epistemológica, teórica y metodológica. 
+    Criterios de desempeño
+
+ * __3.1.1.__ Identifica y propone fenómenos de estudio relevantes al contexto social y los justifica con coherencia epistemológica, teórica y metodológica. 
       * Resultados de Aprendizaje. Formula el problema de investigación de forma pertinente y en coherencia con las bases epistemológicas, teóricas, metodológicas y el estado de la cuestión. 
 
- * Criterio de desempeño. Elabora un plan de investigación viable con coherencia epistemológica, metodológica y ética.
+ * __3.1.2.__ Elabora un plan de investigación viable con coherencia epistemológica, metodológica y ética.
      * Resultados de Aprendizaje:
          - Identifica los componentes de un plan de investigación pertinente para el tipo de investigación.
          - Define estrategias, técnicas y procedimientos a utilizar en cada parte del plan de investigación.
          - Elabora un plan de investigación psicológica viable que cumple con criterios de validez y confiabilidad científica, asegurando las consideraciones éticas.
 	
- * Criterio de desempeño. Ejecuta el trabajo de campo de manera eficaz, eficiente y responsable.      * Resultados de Aprendizaje:
+ * __3.1.3.__  Ejecuta el trabajo de campo de manera eficaz, eficiente y responsable.      * Resultados de Aprendizaje:
          - Planifica el desarrollo del trabajo de laboratorio o de campo, de manera rigurosa siguiendo las consideraciones éticas.
-         - Ejecuta el trabajo de campo o laboratorio de manera rigurosa siguiendo las consideraciones éticas de acuerdo al plan de investigación propuesto. * Criterio de desempeño. Procesa, analiza e integra la información cuantitativa recogida en función de un propósito de investigación.      * Resultados de Aprendizaje:
+         - Ejecuta el trabajo de campo o laboratorio de manera rigurosa siguiendo las consideraciones éticas de acuerdo al plan de investigación propuesto. * __3.1.4.__  Procesa, analiza e integra la información cuantitativa recogida en función de un propósito de investigación.      * Resultados de Aprendizaje:
          - Aplica las técnicas de procesamiento pertinentes a la información cuantitativa recabada en el trabajo de laboratorio o de campo.
          - Analiza la información cuantitativa procesada en función de los criterios metodológicos y técnicos correspondientes.
-         - Explica los resultados obtenidos en base a referencias científicas pertinentes e indica los alcances y limitaciones del estudio. * Criterio de desempeño. Elabora reportes de investigación con bases conceptuales y metodológicas.      * Resultados de Aprendizaje: Redacta bajo supervisión, los reportes de investigación de acuerdo con los criterios homologados de investigación en Psicología.
- * Criterio de desempeño. Asume una actitud crítica sobre su investigación, reconociendo los aportes y limitaciones metodológicas y éticos de su trabajo y propone recomendaciones para futuras iniciativas en el tema de estudio.      * Identifica criterios que garantizan la calidad de la investigación y el cumplimiento de consideraciones éticas.3.2. Competencia Específica. Aplica apropiadamente los elementos de la estadística descriptiva, correlacional, regresional, inferencial y multivariada para el análisis de datos de acuerdo a la propuesta de investigación.
+         - Explica los resultados obtenidos en base a referencias científicas pertinentes e indica los alcances y limitaciones del estudio. * __3.1.5.__  Elabora reportes de investigación con bases conceptuales y metodológicas.      * Resultados de Aprendizaje: Redacta bajo supervisión, los reportes de investigación de acuerdo con los criterios homologados de investigación en Psicología.
+ * __3.1.6.__  Asume una actitud crítica sobre su investigación, reconociendo los aportes y limitaciones metodológicas y éticos de su trabajo y propone recomendaciones para futuras iniciativas en el tema de estudio.      * Identifica criterios que garantizan la calidad de la investigación y el cumplimiento de consideraciones éticas.**3.2.** Aplica apropiadamente los elementos de la estadística descriptiva, correlacional, regresional, inferencial y multivariada para el análisis de datos de acuerdo a la propuesta de investigación.
 
- * Criterio de desempeño. Selecciona, desarrolla y usa técnicas y procedimientos estadísticos para el proceso de investigación. 
+    Criterios de desempeño
+
+ * __3.2.1.__  Selecciona, desarrolla y usa técnicas y procedimientos estadísticos para el proceso de investigación. 
       * Resultados de Aprendizaje: 
          - Conoce técnicas y procedimientos estadísticos pertinentes para el análisis de los resultados según el tipo de investigación.
          - Selecciona distintas técnicas y procedimientos de la estadística para el análisis de los datos según el tipo de investigación.
@@ -68,12 +70,11 @@ Es un curso instrumental-metodológico de carácter teórico-práctico, en el qu
 
 <table>
   <tr>
-    <td>Contenidos</td>
-    <td>Recursos metodológicos y actividades</td>
-    <td>Criterios de desempeño</td>
-    <td>Producto</td>
-    <td>Peso</td> </tr>  
-  
+    <td><b>Contenidos</b></td>
+    <td><b>Recursos metodológicos y actividades</b></td>
+    <td><b>Criterios de desempeño</b></td>
+    <td><b>Producto</b></td>
+    <td><b>Peso</b></td> </tr>  
 <tr>
     <td rowspan="2">La psicología cuantitativa y matemática como un gran aliado para la investigación psicológica, por tanto, un tema divertido y apasionante</td>
     <td>Ilustraciones motivadoras de cómo la psicología cuantitativa y matemática constituye un aliado importante y divertido para la investigación psicológica</td>
@@ -119,11 +120,11 @@ Es un curso instrumental-metodológico de carácter teórico-práctico, en el qu
 
 <table>
   <tr>
-    <td>Contenidos</td>
-    <td>Recursos metodológicos y actividades</td>
-    <td>Criterios de desempeño</td>
-    <td>Producto</td>
-    <td>Peso</td> </tr>  
+    <td><b>Contenidos</b></td>
+    <td><b>Recursos metodológicos y actividades</b></td>
+    <td><b>Criterios de desempeño</b></td>
+    <td><b>Producto</b></td>
+    <td><b>Peso</b></td> </tr>  
 <tr>
     <td rowspan="5">Correlaciones, proporciones y regresion lineal.</td>
     <td>Explicación de la introducción de un estudio y cómo este sustenta el propósito del estudio.</td>
@@ -165,12 +166,12 @@ Es un curso instrumental-metodológico de carácter teórico-práctico, en el qu
 
 
 <table>
-  <tr>
-    <td>Contenidos</td>
-    <td>Recursos metodológicos y actividades</td>
-    <td>Criterios de desempeño</td>
-    <td>Producto</td>
-    <td>Peso</td> </tr>   
+   <tr>
+    <td><b>Contenidos</b></td>
+    <td><b>Recursos metodológicos y actividades</b></td>
+    <td><b>Criterios de desempeño</b></td>
+    <td><b>Producto</b></td>
+    <td><b>Peso</b></td> </tr>    
 <tr>
     <td rowspan="5">Regresión múltiple</td>
     <td>Explicación de la introducción de un estudio y cómo este sustenta el propósito del estudio.</td>
@@ -217,12 +218,11 @@ Es un curso instrumental-metodológico de carácter teórico-práctico, en el qu
 
 <table>
   <tr>
-    <td>Contenidos</td>
-    <td>Recursos metodológicos y actividades</td>
-    <td>Criterios de desempeño</td>
-    <td>Producto</td>
-    <td>Peso</td> </tr>  
-  
+    <td><b>Contenidos</b></td>
+    <td><b>Recursos metodológicos y actividades</b></td>
+    <td><b>Criterios de desempeño</b></td>
+    <td><b>Producto</b></td>
+    <td><b>Peso</b></td> </tr>  
 <tr>
     <td rowspan="5">Tablas y Chi cuadrado</td>
     <td>Explicación de la introducción de un estudio y cómo este sustenta el propósito del estudio.</td>
@@ -259,12 +259,11 @@ Es un curso instrumental-metodológico de carácter teórico-práctico, en el qu
 
 <table>
   <tr>
-    <td>Contenidos</td>
-    <td>Recursos metodológicos y actividades</td>
-    <td>Criterios de desempeño</td>
-    <td>Producto</td>
-    <td>Peso</td> </tr>  
-  
+    <td><b>Contenidos</b></td>
+    <td><b>Recursos metodológicos y actividades</b></td>
+    <td><b>Criterios de desempeño</b></td>
+    <td><b>Producto</b></td>
+    <td><b>Peso</b></td> </tr>  
 <tr>
     <td rowspan="2">Análisis factorial exploratorio</td>
     <td>Clase: aplicación del análisis factorial en la reducción de información.</td>
@@ -291,6 +290,49 @@ Es un curso instrumental-metodológico de carácter teórico-práctico, en el qu
 ### 6. Referencias bibliográficas
 
 ### 7. Calendario 2017 -2
+
+<table>
+  <tr>
+    <td><b>#</b></td>
+    <td colspan="2"><b><center>SEMANA</center></b></td>
+    <td><b>UNIDAD</b></td>
+    <td><b>TEMA</b></td>
+    <td><b>ACTIVIDAD</b></td> </tr>
+    
+ <tr>
+ 	<td>1</td>
+ 	<td>15/Ago</td>
+ 	<td>20/Ago</td>
+ 	<td rowspan="3">Descriptiva</td>
+ 	<td>Psicología Cuantitativa</td>
+ 	<td> Revisión del Syllabus 
+ 	<br>Introducción a la Psicología Cuantitativa
+ 	Revisión de estudios cuantitativos actuales</br> 
+ 	</td>
+ </tr>
+ 
+ 
+ 
+ <tr>
+ 	<td>2</td>
+ 	<td>22/Ago</td>
+ 	<td>27/Ago</td>
+ 	<td>Exploración de Datos y Detección de Hipotesis</td>
+ 	<td>Clase</td>
+ </tr>
+ 
+  <tr>
+ 	<td>3</td>
+ 	<td>22/Ago</td>
+ 	<td>27/Ago</td>
+ 	<td>Reglas APA</td>
+ 	<td>Clase1 <br>Clase 2</br></td>
+ </tr>
+ 
+ 
+      
+</table>
+
 
 | #                                       | SEMANA |        | CLASE                              |                                |           |
 |-----------------------------------------|--------|--------|------------------------------------|--------------------------------|-----------|
