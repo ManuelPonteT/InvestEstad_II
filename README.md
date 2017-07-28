@@ -301,8 +301,8 @@ Es un curso instrumental-metodológico de carácter teórico-práctico, en el qu
     
  <tr>
  	<td>1</td>
- 	<td>15/Ago</td>
- 	<td>20/Ago</td>
+ 	<td>14/Ago</td>
+ 	<td>19/Ago</td>
  	<td rowspan="3">Descriptiva</td>
  	<td>Psicología Cuantitativa</td>
  	<td> Revisión del Syllabus 
@@ -315,18 +315,172 @@ Es un curso instrumental-metodológico de carácter teórico-práctico, en el qu
  
  <tr>
  	<td>2</td>
- 	<td>22/Ago</td>
- 	<td>27/Ago</td>
+ 	<td>21/Ago</td>
+ 	<td>26/Ago</td>
  	<td>Exploración de Datos y Detección de Hipotesis</td>
- 	<td>Clase</td>
+ 	<td>Elementos del Análisis Exploratorio de Datos (AED).       <br> Formulación de hipótesis a partir del AED.</br>Población y Elección de Muestras<br>Práctica dirigida sobre uso de SPSS</br>
+ 	</td>
  </tr>
  
   <tr>
- 	<td>3</td>
- 	<td>22/Ago</td>
- 	<td>27/Ago</td>
- 	<td>Reglas APA</td>
- 	<td>Clase1 <br>Clase 2</br></td>
+ 	<td>3<sup><a href="#fn1" id="ref1">1</a></sup></td>
+ 	<td>28/Ago</td>
+ 	<td>02/Sep</td>
+ 	<td>Investigación y Reglas APA</td>
+ 	<td>Reglas APA en los reportes estadíticos.
+ 	<br><b>Asesoría</b>: Discusión del marco teórico de proyecto de investigación. <br><b>Práctica Calificada 1</b>: AED
+ 	</td>
+ </tr>
+ 
+<tr>
+ 	<td>4</td>
+ 	<td>04/Sep</td>
+ 	<td>09/Sep</td>
+ 	<td rowspan="2">Correlación y Regresión</td>
+ 	<td>Medición de la Correlación</td>
+ 	<td> Exploración Bivariada en las escalas numéricas.
+ 	<br>Coeficientes de Correlación.
+ 	<br>Uso del SPSS para en análisis de Correlación.
+ 	<br><b>Entrega 1</b>: Marco teórico, definición de Población, obtención de la muestra y Justificación</br> 
+ 	</td>
+ </tr>
+<tr>
+ 	<td>5</td>
+ 	<td>11/Sep</td>
+ 	<td>16/Sep</td>
+ 	<td>Regresión simple</td>
+ 	<td>Requisitos de la regresión simple.       <br> Interpretación de la regresión simple<br><b>Práctica Calificada 2</b>: Correlación y Regresión</br>
+ 	</td>
+ </tr>
+ 
+ <tr>
+ 	<td>6</td>
+ 	<td>18/Sep</td>
+ 	<td>23/Sep</td>
+ 	<td rowspan="2">Proporciones y Tablas de Contigencia</td>
+ 	<td>Asociación Bivariada entre Categóricas</td>
+ 	<td>Construcción de Tablas de Contingencia.
+ 	<br>Prueba Chi Cuadrado para diversos casos.
+ 	<br>Uso del SPSS en el análisis de de asociación.</br> 
+ 	</td>
+ </tr>
+<tr>
+ 	<td>7</td>
+ 	<td>25/Sep</td>
+ 	<td>30/Sep</td>
+ 	<td>Contrastes sobre proporciones</td>
+ 	<td>Proporciones univariadas y bivariadas.       <br> Contrastes para proporciones independientes y relacionadas.
+       <br>Uso del SPSS para contrastar proporciones.
+       <br><b>Práctica Calificada 3</b>: Tablas de Contingencia y Proporciones.</br>
+ 	</td>
+ </tr>
+<tr>
+ 	<td>8</td>
+ 	<td>02/Oct</td>
+ 	<td>07/oct</td>
+ 	<td colspan="2" rowspan="2"><b>EXAMENES PARCIALES</b></td>
+ 	<td>Repaso: integración de unidades previas.
+ 	<br>Asesoria: Diario Reflexivo y Proyecto Final.</br> 
+ 	</td>
+ </tr>
+ <tr>
+ 	<td>9</td>
+ 	<td>09/Oct</td>
+ 	<td>14/oct</td>
+ 	<td>Entrega de Diario Reflexivo.
+ 	<br>Presentación de Avance del Proyecto Final: Marco teorico, muestra, hipotesis y tecnicas a usar.</br> 
+ 	</td>
+ </tr>
+ 
+ <tr>
+ 	<td>10</td>
+ 	<td>16/Oct</td>
+ 	<td>21/Oct</td>
+ 	<td rowspan="3">Modelos Multivariados</td>
+ 	<td>Regresión Multivariada</td>
+ 	<td>Determinación  de modelos multivariados.
+ 	<br>Interpretación de modelos multivariados en SPSS.</br> 
+ 	</td>
+ </tr>
+<tr>
+ 	<td>11</td>
+ 	<td>23/Oct</td>
+ 	<td>28/Oct</td>
+ 	<td>Regresión Multivariada con dummies y introducción a la regresión Logística</td>
+ 	<td>Regresion Multivariada con variables independientes categóricas.       <br>Modelamiento de variables categóricas.
+       <br>Regresión con dummy y Logistica en SPSS.</br>
+ 	</td>
+ </tr>
+ 
+ 
+ <tr>
+ 	<td>12<sup><a href="#fn2" id="ref2">2</a></sup></td>
+ 	<td>30/Oct</td>
+ 	<td>04/Nov</td>
+ 	<td>Regresión y Ecuaciones Estructurales</td>
+ 	<td>Regresión y Path Analysis.       <br>Discusión del concepto de Variables Latentes.
+       <br>Modelos de Ecuaciones Estructurales en Psicología.</br>
+ 	</td>
+ </tr>
+ 
+ <tr>
+ 	<td>13</td>
+ 	<td>06/Nov</td>
+ 	<td>11/Nov</td>
+ 	<td colspan="2">Encuesta de Opinión Docente</td>
+ 	<td>Asesoria: Proyecto Final.
+ 	<br>Asesoria: Diario Reflexivo.
+ 	<br>Practica Dirigida: Modelos Multivariados</br>
+ 	</td>
+ </tr>
+ 
+ <tr>
+ 	<td>14</td>
+ 	<td>13/Nov</td>
+ 	<td>18/Nov</td>
+ 	<td rowspan="2">Reducción de Dimensiones</td>
+ 	<td>Análisis Factorial Exploratorio (AFE)</td>
+ 	<td>Reducción de Dimensiones y AFE.
+ 	<br>AFE en SPSS.</br> 
+ 	</td>
+ </tr>
+<tr>
+ 	<td>15</td>
+ 	<td>20/Nov</td>
+ 	<td>25/Nov</td>
+ 	<td>Análisis Factorial Confirmatorio (AFC)</td>
+ 	<td>Introducción al AFC.    <br>Análisis Factorial y Regresión
+    <br>Practica Dirigida
+    </br>
+       
+ 	</td>
+ </tr>
+ 
+  <tr>
+ 	<td>16</td>
+ 	<td>27/Nov</td>
+ 	<td>02/Dic</td>
+ 	<td colspan="2" rowspan="2">Cierre de Clases</td>
+ 	<td><b>Practica Calificada</b>: Todo el curso.
+ 	<br><b>Asesoria</b>: Diario Reflexivo.
+ 	<br><b>Entrega y Presentación</b>: Proyectos Finales</br>
+ 	</td>
+ </tr>
+ 
+ <tr>
+ 	<td>17<sup><a href="#fn3" id="ref3">3</a></sup></td>
+ 	<td>04/Dic</td>
+ 	<td>09/Dic</td>
+ 	<td><b>Entrega de Diarios Reflexivos finales</b></br>
+ 	</td>
+ </tr>
+ 
+  <tr>
+ 	<td>18</td>
+ 	<td>11/Dic</td>
+ 	<td>16/Dic</td>
+ 	<td colspan="3" ><b>Exámenes de rezagados</b></br>
+ 	</td>
  </tr>
  
  
@@ -334,37 +488,8 @@ Es un curso instrumental-metodológico de carácter teórico-práctico, en el qu
 </table>
 
 
-| #                                       | SEMANA |        | CLASE                              |                                |           |
-|-----------------------------------------|--------|--------|------------------------------------|--------------------------------|-----------|
-|                                         |        |        | UNIDAD                             | TEMA                           | ACTIVIDAD |
-| 1                                       | 15-Aug | 20-Aug | Descriptiva                        | Descripción de Datos           |           |
-| 2                                       | 22-Aug | 27-Aug |                                    | Visualización de Datos          |           |
-| 3<sup>[1](#footnote1)</sup>                                    | 29-Aug | 3-Sep  |                                    | Inferencia Estadística         |           |
-| 4                                       | 5-Sep  | 10-Sep | Regresión                          | Correlación                    |           |
-| 5                                       | 12-Sep | 17-Sep |                                    | Regresión Lineal               |           |
-| 6                                       | 19-Sep | 24-Sep |                                    | Regresión Multivariada         |           |
-| 7                                       | 26-Sep | 1-Oct  |                                    | Modelos Estructurales          |           |
-| 8<sup>[2](#footnote2)</sup>                                    | 3-Oct  | 8-Oct  | EXAMENES PARCIALES                 |                                |           |
-| 9                                       | 10-Oct | 15-Oct |                                    |                                |           |
-| 10                                      | 17-Oct | 22-Oct | Análisis de Tablas de Contingencia | Aná lisis de Datos Categóricos  |           |
-| 11                                      | 24-Oct | 29-Oct |                                    | Análisis Nominal-Nominal       |           |
-| 12<sup>[3](#footnote3)</sup>                                   | 31-Oct | 5-Nov  |                                    | Análisis con Valores ordinales |           |
-| 13<sup>[4](#footnote4)</sup>                                   | 7-Nov  | 12-Nov | Reducción de Dimensiones           | Reducción de Dimensiones       |           |
-| 14                                      | 14-Nov | 19-Nov |                                    | Modelos exploratorios          |           |
-| 15                                      | 21-Nov | 26-Nov |                                    | Modelos confirmatorios         |           |
-| 16                                      | 28-Nov | 3-Dec  | EXAMENES FINALES                   |                                |           |
-| 17<sup>[5](#footnote5)</sup>                                   | 5-Dec  | 10-Dec |                                    |                                |           |
-| 18                                      | 12-Dec | 17-Dec |EXAMENES DE REZAGADOS|||
- 
+<sup id="fn1">1</sup>Feriado (30 de Agosto)<a href="#ref1" >&#8593;</a>
 
+<sup id="fn2">2</sup>Feriado (1 de Noviembre)<a href="#ref2">&#8593;</a>
 
-
-<a name="footnote1">1</a>: Feriado (30 de Agosto)
-
-<a name="footnote1">2</a>: Feriado (8 de octubre) 
-
-<a name="footnote1">3</a>: Feriado (1 de Noviembre)
-
-<a name="footnote1">4</a>: Encuesta  de Opinión sobre Docentes
-
-<a name="footnote5">5</a>: Feriado (8 de Diciembre) 
+<sup id="fn3">3</sup>Feriado (8 de Diciembre) <a href="#ref3">&#8593;</a>
