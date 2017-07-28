@@ -123,12 +123,18 @@ Es un curso instrumental-metodológico de carácter teórico-práctico, en el qu
     <td>Criterios de desempeño</td>
     <td>Producto</td>
     <td>Peso</td> </tr>  
-  <tr>
-    <td>Correlaciones, proporciones y regresion lineal.</td>
+<tr>
+    <td rowspan="2">Correlaciones, proporciones y regresion lineal.</td>
     <td>Explicación de la introducción de un estudio y cómo este sustenta el propósito del estudio.</td>
      <td>Comprende la relación entre el estado del arte y el planteamiento del propósito del estudio.</td>
     <td>Dado un tema psicológico, el estudiante revisa la literatura y presenta un propósito de estudio pertinente</td>
     <td>20%</td>
+    </tr>
+<tr>
+    <td>Explicación de cómo el propósito del estudio lleva a un diseño metodológico que implica correlaciones y regresión lineal.</td>
+     <td>Comprende la relación entre el propósito del estudio y el diseño metodológico, con énfasis en el análisis estadístico</td>
+    <td>Dado un propósito de estudio, el estudiante diseña un método en donde se establecen correlaciones que luego son analizadas con regresión lineal </td>
+    <td >20%</td>
     </tr>
 
 <!--This is a comment. Comments are not displayed in the browser
@@ -142,12 +148,7 @@ Es un curso instrumental-metodológico de carácter teórico-práctico, en el qu
     <td >20%</td>
     </tr>
   
-  <tr>
-    <td>Explicación de cómo el propósito del estudio lleva a un diseño metodológico que implica correlaciones y regresión lineal.</td>
-     <td>Comprende la relación entre el propósito del estudio y el diseño metodológico, con énfasis en el análisis estadístico</td>
-    <td>Dado un propósito de estudio, el estudiante diseña un método en donde se establecen correlaciones que luego son analizadas con regresión lineal </td>
-    <td >20%</td>
-    </tr>
+  
     
     <tr>
     <td>Explicación del sustento estadístico de las correlaciones, proporciones y la regresión lineal.</td>
