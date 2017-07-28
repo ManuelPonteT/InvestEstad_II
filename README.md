@@ -22,6 +22,9 @@
 Es un curso instrumental-metodológico de carácter teórico-práctico, en el que el estudiante identifica un fenómeno que puede ser estudiado con métodos no experimentales. Planifica y ejecuta un plan de investigación con coherencia epistemológica, metodológica y ética; para ello, plantea el propósito del estudio, selecciona el método no experimental pertinente, conduce rigurosamente la investigación; analiza y discute los resultados, y redacta y expone un reporte del estudio.
 
 
+### 3. Aporte del curso al perfil de egreso:
+
+
 <table>
   <tr>
     <td>COMPETENCIA GLOBAL</td>
@@ -35,8 +38,6 @@ Es un curso instrumental-metodológico de carácter teórico-práctico, en el qu
   </tr>
 </table>
 
-
-### 3. Aporte del curso al perfil de egreso:
 3.1. Competencia Específica. Plantea el problema de investigación, acorde con el estado de la cuestión y la realidad nacional; diseña el método pertinente para resolverlo; y desarrolla planes de investigación para aproximarse al conocimiento de problemáticas psicológicas y sociales relevantes; analiza, discute y publica los resultados. Todo ello con una actitud de rigor científico, curiosidad y autocrítica permanente, mostrando una conducta ética a lo largo de todo el proceso de investigación.
 
  * Criterio de desempeño. Identifica y propone fenómenos de estudio relevantes al contexto social y los justifica con coherencia epistemológica, teórica y metodológica. 
