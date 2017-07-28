@@ -123,13 +123,12 @@ Es un curso instrumental-metodológico de carácter teórico-práctico, en el qu
     <td>Criterios de desempeño</td>
     <td>Producto</td>
     <td>Peso</td> </tr>  
-    
-    <tr>
+  <tr>
     <td>Correlaciones, proporciones y regresion lineal.</td>
     <td>Explicación de la introducción de un estudio y cómo este sustenta el propósito del estudio.</td>
-     <td >Comprende la relación entre el estado del arte y el planteamiento del propósito del estudio.</td>
-    <td >Dado un tema psicológico, el estudiante revisa la literatura y presenta un propósito de estudio pertinente</td>
-    <td >20%</td>
+     <td>Comprende la relación entre el estado del arte y el planteamiento del propósito del estudio.</td>
+    <td>Dado un tema psicológico, el estudiante revisa la literatura y presenta un propósito de estudio pertinente</td>
+    <td>20%</td>
     </tr>
 
 <!--This is a comment. Comments are not displayed in the browser
