@@ -123,9 +123,20 @@ Es un curso instrumental-metodológico de carácter teórico-práctico, en el qu
     <td>Criterios de desempeño</td>
     <td>Producto</td>
     <td>Peso</td> </tr>  
-  
+    
+    <tr>
+    <td>Correlaciones, proporciones y regresión lineal.</td>
+    
+    <td>Explicación de la introducción de un estudio y cómo este sustenta el propósito del estudio.</td>
+     <td >Comprende la relación entre el estado del arte y el planteamiento del propósito del estudio.</td>
+    <td >Dado un tema psicológico, el estudiante revisa la literatura y presenta un propósito de estudio pertinente</td>
+    <td >20%</td>
+    </tr>
+
+<!--This is a comment. Comments are not displayed in the browser
+
 <tr>
-    <td rowspan="6">La psicología cuantitativa y matemática como un gran aliado para la investigación psicológica, por tanto, un tema divertido y apasionante.</td>
+    <td rowspan="5">La psicología cuantitativa y matemática como un gran aliado para la investigación psicológica, por tanto, un tema divertido y apasionante.</td>
     
     <td>Explicación de la introducción de un estudio y cómo este sustenta el propósito del estudio.</td>
      <td >Comprende la relación entre el estado del arte y el planteamiento del propósito del estudio.</td>
@@ -160,6 +171,7 @@ Es un curso instrumental-metodológico de carácter teórico-práctico, en el qu
     <td>El estudiante revisa la literatura pertinente y discute los resultados.</td>
     <td >20%</td>
     </tr>  
+-->
 </table>
 
 
