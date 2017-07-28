@@ -17,7 +17,7 @@
 	- __Psi. Pamela Núñez Del Prado Chaves__ ([pamela.nunezdelprado@pucp.pe](mailto:pamela.nunezdelprado@pucp.pe)) 
 * Asistentes:
 	- __Lic. Marylia Cruz__ ([marylia.cruz@pucp.pe](mailto:marylia.cruz@pucp.pe))
-	- __Lic. Francisco Morote__ ([fjmorote@pucp.pe](mailto:fjmorote@pucp.pe))###2. Sumilla
+	- __Lic. Francisco Morote__ ([fjmorote@pucp.pe](mailto:fjmorote@pucp.pe))### 2. Sumilla
 
 Es un curso instrumental-metodológico de carácter teórico-práctico, en el que el estudiante identifica un fenómeno que puede ser estudiado con métodos no experimentales. Planifica y ejecuta un plan de investigación con coherencia epistemológica, metodológica y ética; para ello, plantea el propósito del estudio, selecciona el método no experimental pertinente, conduce rigurosamente la investigación; analiza y discute los resultados, y redacta y expone un reporte del estudio.
 
@@ -36,7 +36,7 @@ Es un curso instrumental-metodológico de carácter teórico-práctico, en el qu
 </table>
 
 
-###3. Aporte del curso al perfil de egreso:
+### 3. Aporte del curso al perfil de egreso:
 3.1. Competencia Específica. Plantea el problema de investigación, acorde con el estado de la cuestión y la realidad nacional; diseña el método pertinente para resolverlo; y desarrolla planes de investigación para aproximarse al conocimiento de problemáticas psicológicas y sociales relevantes; analiza, discute y publica los resultados. Todo ello con una actitud de rigor científico, curiosidad y autocrítica permanente, mostrando una conducta ética a lo largo de todo el proceso de investigación.
 
  * Criterio de desempeño. Identifica y propone fenómenos de estudio relevantes al contexto social y los justifica con coherencia epistemológica, teórica y metodológica. 
@@ -60,9 +60,9 @@ Es un curso instrumental-metodológico de carácter teórico-práctico, en el qu
       * Resultados de Aprendizaje: 
          - Conoce técnicas y procedimientos estadísticos pertinentes para el análisis de los resultados según el tipo de investigación.
          - Selecciona distintas técnicas y procedimientos de la estadística para el análisis de los datos según el tipo de investigación.
-         - Aplica adecuadamente técnicas y procedimientos estadísticos según el tipo y propósito de la investigación. ###4. Resultados de aprendizaje del curso:
+         - Aplica adecuadamente técnicas y procedimientos estadísticos según el tipo y propósito de la investigación. ### 4. Resultados de aprendizaje del curso:
 
-4.1 Analizar información descriptiva, utilizando la estadística
+**4.1 Analizar información descriptiva, utilizando la estadística**
 
 
 <table>
@@ -109,9 +109,8 @@ Es un curso instrumental-metodológico de carácter teórico-práctico, en el qu
 </table>
 
 
-###
 
-4.2 Aplica e interpreta las correlaciones y la regresión lineal en la investigación psicológica 
+**4.2 Aplica e interpreta las correlaciones y la regresión lineal en la investigación psicológica.**
 
 
 <table>
@@ -151,18 +150,12 @@ Es un curso instrumental-metodológico de carácter teórico-práctico, en el qu
     <td>Contraste de resultados con la literatura pertinente.</td>
      <td>Discute los resultados en el contexto de estudios similares.</td>
     <td>El estudiante revisa la literatura pertinente y discute los resultados.</td>
-    <td >20%</td></tr>
-    
-  
-
-  
+    <td >20%</td></tr>  
 </table>
 
 
 
-###
-
-4.3. Aplica e interpreta la regresión múltiple en la investigación psicológica. Lee resultados de estudios realizados con modelos de ecuaciones estructurales
+**4.3. Aplica e interpreta la regresión múltiple en la investigación psicológica. Lee resultados de estudios realizados con modelos de ecuaciones estructurales**
 
 
 <table>
@@ -222,7 +215,7 @@ Es un curso instrumental-metodológico de carácter teórico-práctico, en el qu
 
 
 
-4.4 Aplica e interpreta las tablas y el chi cuadrado en la investigación psicológica
+**4.4 Aplica e interpreta las tablas y el chi cuadrado en la investigación psicológica**
 
 
 <table>
@@ -263,15 +256,12 @@ Es un curso instrumental-metodológico de carácter teórico-práctico, en el qu
      <td>Discute los resultados en el contexto de estudios similares.</td>
     <td>El estudiante revisa la literatura pertinente y discute los resultados.</td>
     <td >20%</td></tr>
-    
-  
-
   
 </table>
 
 
 
-4.5 Aplica e interpreta la reducción de dimensiones de manera básica
+**4.5 Aplica e interpreta la reducción de dimensiones de manera básica**
 
 
 <table>
