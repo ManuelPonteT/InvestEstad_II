@@ -1,7 +1,7 @@
 # Pontificia Universidad Católica del Perú
 ## Facultad de Psicología
 
-###1. Información General
+### 1. Información General
 
 
 * Nombre del curso: **Investigación y Estadística 2**
@@ -122,7 +122,7 @@ Es un curso instrumental-metodológico de carácter teórico-práctico, en el qu
     <td>Peso</td> </tr>  
   
 <tr>
-    <td rowspan="5">La psicología cuantitativa y matemática como un gran aliado para la investigación psicológica, por tanto, un tema divertido y apasionante</td>
+    <td rowspan="6">La psicología cuantitativa y matemática como un gran aliado para la investigación psicológica, por tanto, un tema divertido y apasionante</td>
     <td>Explicación de la introducción de un estudio y cómo este sustenta el propósito del estudio.</td>
      <td >Comprende la relación entre el estado del arte y el planteamiento del propósito del estudio</td>
     <td >Dado un tema psicológico, el estudiante revisa la literatura y presenta un propósito de estudio pertinente</td>
@@ -298,11 +298,11 @@ Es un curso instrumental-metodológico de carácter teórico-práctico, en el qu
 
 </table>
 
-###5. Fórmula de evaluación 
+### 5. Fórmula de evaluación 
 
-###6. Referencias bibliográficas
+### 6. Referencias bibliográficas
 
-###7. Calendario 2017 -2
+### 7. Calendario 2017 -2
 
 | #                                       | SEMANA |        | CLASE                              |                                |           |
 |-----------------------------------------|--------|--------|------------------------------------|--------------------------------|-----------|
