@@ -124,7 +124,7 @@ Es un curso instrumental-metodológico de carácter teórico-práctico, en el qu
     <td>Producto</td>
     <td>Peso</td> </tr>  
 <tr>
-    <td rowspan="2">Correlaciones, proporciones y regresion lineal.</td>
+    <td rowspan="5">Correlaciones, proporciones y regresion lineal.</td>
     <td>Explicación de la introducción de un estudio y cómo este sustenta el propósito del estudio.</td>
      <td>Comprende la relación entre el estado del arte y el planteamiento del propósito del estudio.</td>
     <td>Dado un tema psicológico, el estudiante revisa la literatura y presenta un propósito de estudio pertinente</td>
@@ -136,27 +136,12 @@ Es un curso instrumental-metodológico de carácter teórico-práctico, en el qu
     <td>Dado un propósito de estudio, el estudiante diseña un método en donde se establecen correlaciones que luego son analizadas con regresión lineal </td>
     <td >20%</td>
     </tr>
-
-<!--This is a comment. Comments are not displayed in the browser
-
 <tr>
-    <td rowspan="5">La psicología cuantitativa y matemática como un gran aliado para la investigación psicológica, por tanto, un tema divertido y apasionante.</td>
-    
-    <td>Explicación de la introducción de un estudio y cómo este sustenta el propósito del estudio.</td>
-     <td >Comprende la relación entre el estado del arte y el planteamiento del propósito del estudio.</td>
-    <td >Dado un tema psicológico, el estudiante revisa la literatura y presenta un propósito de estudio pertinente</td>
-    <td >20%</td>
-    </tr>
-  
-  
-    
-    <tr>
     <td>Explicación del sustento estadístico de las correlaciones, proporciones y la regresión lineal.</td>
      <td>Comprende la fórmula, los alcances y limitaciones de las pruebas estadísticas revisadas.</td>
     <td>Reporte oral o escrito sobre el sustento estadístico de las pruebas.</td>
     <td >20%</td>
     </tr>
-
 <tr>
     <td>Ejecución de las pruebas utilizando SPSS.Interpretación estadística y psicológica de los resultados.</td>
      <td>Ejecuta el análisis estadístico y lo interpreta psicológicamente.</td>
@@ -170,7 +155,7 @@ Es un curso instrumental-metodológico de carácter teórico-práctico, en el qu
     <td>El estudiante revisa la literatura pertinente y discute los resultados.</td>
     <td >20%</td>
     </tr>  
--->
+
 </table>
 
 
