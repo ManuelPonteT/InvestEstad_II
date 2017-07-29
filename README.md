@@ -1,3 +1,5 @@
+<img src="https://dci.pucp.edu.pe/wp-content/uploads/2014/02/logotipo-100anios-color-290x109.gif">
+
 # Pontificia Universidad Católica del Perú
 ## Facultad de Psicología
 
@@ -346,11 +348,12 @@ La nota estará en función al nivel de cumplimiento del entregable. El profesor
 
 Howell, D. (2017). Fundamental statistics for the behavioral sciences (Ninth edition, student ed.). Boston, MA: Cengage Learning.
 
-Rasch, D., Kubinger, Klaus D., & Yanagida, Takuya. (2011). Statistics in psychology using R and SPSS. Chichester, West Sussex, UK: John Wiley & Sons.
-
 Magallanes, Jose Manuel (2012). Tour Guiado por la Estadistica Basica. Pontificia Universidad Católica del Peru.
 
 Magallanes, Jose (2017). Introduction to Data Science for Social and Policy Research. Cambridge University Press.
+
+Rasch, D., Kubinger, Klaus D., & Yanagida, Takuya. (2011). Statistics in psychology using R and SPSS. Chichester, West Sussex, UK: John Wiley & Sons.
+
 
 
 * LECTURAS PARA CLASE
@@ -373,10 +376,9 @@ Cada sesión tendrá diversos materiales de lectura de libre disponibilidad. Se 
  	<td>14/Ago</td>
  	<td>19/Ago</td>
  	<td rowspan="3">Descriptiva</td>
- 	<td>Psicología Cuantitativa</td>
- 	<td> Revisión del Syllabus 
- 	<br>Introducción a la Psicología Cuantitativa
- 	Revisión de estudios cuantitativos actuales</br> 
+ 	<td> Psicología Cuantitativa</td>
+ 	<td> Revisión del Syllabus. 
+ 	<br> Discusión sobre rol de los enfoques cuantitativos en la Psicología.</br> 
  	</td>
  </tr>
  
@@ -387,8 +389,9 @@ Cada sesión tendrá diversos materiales de lectura de libre disponibilidad. Se 
  	<td>21/Ago</td>
  	<td>26/Ago</td>
  	<td>Exploración de Datos y Detección de Hipotesis</td>
- 	<td>Elementos del Análisis Exploratorio de Datos (AED).       <br> Formulación de hipótesis a partir del AED.</br>Población y Elección de Muestras<br>Práctica dirigida sobre uso de SPSS</br>
- 	</td>
+ 	<td>Elementos del Análisis Exploratorio de Datos (AED).
+ 	Formulación de hipótesis a partir del AED.
+ 	<br>Población y Elección de MuestrasPráctica dirigida sobre uso de SPSS.</br></td>
  </tr>
  
   <tr>
@@ -397,8 +400,7 @@ Cada sesión tendrá diversos materiales de lectura de libre disponibilidad. Se 
  	<td>02/Sep</td>
  	<td>Investigación y Reglas APA</td>
  	<td>Reglas APA en los reportes estadíticos.
- 	<br><b>Asesoría</b>: Discusión del marco teórico de proyecto de investigación. <br><b>Práctica Calificada 1</b>: AED
- 	</td>
+ 	<br><b>Asesoría para Entregable 1</b>.<br><b>Práctica Calificada 1</b>. </br>	</td>
  </tr>
  
 <tr>
@@ -410,7 +412,7 @@ Cada sesión tendrá diversos materiales de lectura de libre disponibilidad. Se 
  	<td> Exploración Bivariada en las escalas numéricas.
  	<br>Coeficientes de Correlación.
  	<br>Uso del SPSS para en análisis de Correlación.
- 	<br><b>Entrega 1</b>: Marco teórico, definición de Población, obtención de la muestra y Justificación</br> 
+ 	<br><b>Entregable 1</b>.</br> 
  	</td>
  </tr>
 <tr>
@@ -418,7 +420,7 @@ Cada sesión tendrá diversos materiales de lectura de libre disponibilidad. Se 
  	<td>11/Sep</td>
  	<td>16/Sep</td>
  	<td>Regresión simple</td>
- 	<td>Requisitos de la regresión simple.       <br> Interpretación de la regresión simple<br><b>Práctica Calificada 2</b>: Correlación y Regresión</br>
+ 	<td>Requisitos de la regresión simple.       <br> Interpretación de la regresión simple.<br><b>Práctica Calificada 2</b>.</br>
  	</td>
  </tr>
  
@@ -440,7 +442,7 @@ Cada sesión tendrá diversos materiales de lectura de libre disponibilidad. Se 
  	<td>Contrastes sobre proporciones</td>
  	<td>Proporciones univariadas y bivariadas.       <br> Contrastes para proporciones independientes y relacionadas.
        <br>Uso del SPSS para contrastar proporciones.
-       <br><b>Práctica Calificada 3</b>: Tablas de Contingencia y Proporciones.</br>
+       <br><b>Práctica Calificada 3</b></br>
  	</td>
  </tr>
 <tr>
@@ -448,17 +450,17 @@ Cada sesión tendrá diversos materiales de lectura de libre disponibilidad. Se 
  	<td>02/Oct</td>
  	<td>07/oct</td>
  	<td colspan="2" rowspan="2"><b>EXAMENES PARCIALES</b></td>
- 	<td>Repaso: integración de unidades previas.
- 	<br>Asesoria: Diario Reflexivo y Proyecto Final.</br> 
+ 	<td>Clase de Repaso: integración de unidades previas.
+ 	<br><b>Asesoria Entregable 2</b>.
+ 	<b>Asesoria Diario Reflexivo 1</b>.</br>  
  	</td>
  </tr>
  <tr>
  	<td>9</td>
  	<td>09/Oct</td>
  	<td>14/oct</td>
- 	<td>Entrega de Diario Reflexivo.
- 	<br>Presentación de Avance del Proyecto Final: Marco teorico, muestra, hipotesis y tecnicas a usar.</br> 
- 	</td>
+ 	<td> <b>Diario Reflexivo 1</b>.
+ 	<br><b>Entregable 2</b>.</br></td>
  </tr>
  
  <tr>
@@ -489,7 +491,8 @@ Cada sesión tendrá diversos materiales de lectura de libre disponibilidad. Se 
  	<td>Regresión y Ecuaciones Estructurales</td>
  	<td>Regresión y Path Analysis.       <br>Discusión del concepto de Variables Latentes.
        <br>Modelos de Ecuaciones Estructurales en Psicología.
-       <br><b>Practica Calificada 4</b></br>
+       <b>Asesoria Entregable 3</b>.
+       <br><b>Practica Calificada 4</b>.</br>
  	</td>
  </tr>
  
@@ -498,9 +501,10 @@ Cada sesión tendrá diversos materiales de lectura de libre disponibilidad. Se 
  	<td>06/Nov</td>
  	<td>11/Nov</td>
  	<td colspan="2">Encuesta de Opinión Docente</td>
- 	<td>Asesoria: Proyecto Final.
- 	<br>Asesoria: Diario Reflexivo.
- 	<br>Practica Dirigida: Modelos Multivariados</br>
+ 	<td><b>Entregable 3</b>
+ 	<br>Practica Dirigida.
+ 	<br><b>Asesoria Diario Reflexivo 2</b>.</br>
+ 	
  	</td>
  </tr>
  
@@ -519,8 +523,8 @@ Cada sesión tendrá diversos materiales de lectura de libre disponibilidad. Se 
  	<td>20/Nov</td>
  	<td>25/Nov</td>
  	<td>Análisis Factorial Confirmatorio (AFC)</td>
- 	<td>Introducción al AFC.    <br>Análisis Factorial y Regresión
-    <br>Practica Dirigida</br></td>
+ 	<td>Introducción al AFC.    <br>Análisis Factorial y Regresión.
+    Practica Dirigida.</br></td>
  </tr>
  
   <tr>
@@ -529,8 +533,7 @@ Cada sesión tendrá diversos materiales de lectura de libre disponibilidad. Se 
  	<td>02/Dic</td>
  	<td colspan="2" rowspan="2">Cierre de Clases</td>
  	<td><b>Practica Calificada 5</b>: Todo el curso.
- 	<br><b>Asesoria</b>: Diario Reflexivo.
- 	<br><b>Entrega y Presentación</b>: Proyectos Finales</br>
+ 	<br><b>Entregable 4</b>.</br>
  	</td>
  </tr>
  
@@ -538,7 +541,7 @@ Cada sesión tendrá diversos materiales de lectura de libre disponibilidad. Se 
  	<td>17<sup><a href="#fn3" id="ref3">3</a></sup></td>
  	<td>04/Dic</td>
  	<td>09/Dic</td>
- 	<td><b>Entrega de Diarios Reflexivos finales</b></br>
+ 	<td><b>Entrega de Diarios Reflexivos finales</b>.</br>
  	</td>
  </tr>
  
