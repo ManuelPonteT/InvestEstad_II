@@ -35,9 +35,9 @@ ____
 * Año:**2017**
 * Semestre: **Segundo**
 * Número de créditos: **Cuatro** (4)
-* Horas de teoría:**Cuatro** (4)
-* Carácter:**Obligatorio**
-* Pre-requisitos:**Investigación y Estadística 1 (PSG-208)**
+* Horas de teoría: **Cuatro** (4)
+* Carácter: **Obligatorio**
+* Pre-requisitos: **Investigación y Estadística 1 (PSG-208)**
 * Profesores:
 	- __Dr. José Manuel Magallanes__  ([jmagallanes@pucp.edu.pe](mailto:jmagallanes@pucp.edu.pe))
 	- __Psi. Pamela Núñez Del Prado Chaves__ ([pamela.nunezdelprado@pucp.pe](mailto:pamela.nunezdelprado@pucp.pe)) 
@@ -88,7 +88,7 @@ ____
          - Aplica las técnicas de procesamiento pertinentes a la información cuantitativa recabada en el trabajo de laboratorio o de campo.
          - Analiza la información cuantitativa procesada en función de los criterios metodológicos y técnicos correspondientes.
          - Explica los resultados obtenidos en base a referencias científicas pertinentes e indica los alcances y limitaciones del estudio. * __3.1.5.__  Elabora reportes de investigación con bases conceptuales y metodológicas.      * Resultados de Aprendizaje: Redacta bajo supervisión, los reportes de investigación de acuerdo con los criterios homologados de investigación en Psicología.
- * __3.1.6.__  Asume una actitud crítica sobre su investigación, reconociendo los aportes y limitaciones metodológicas y éticos de su trabajo y propone recomendaciones para futuras iniciativas en el tema de estudio.      * Identifica criterios que garantizan la calidad de la investigación y el cumplimiento de consideraciones éticas.**3.2.** Aplica apropiadamente los elementos de la estadística descriptiva, correlacional, regresional, inferencial y multivariada para el análisis de datos de acuerdo a la propuesta de investigación.
+ * __3.1.6.__  Asume una actitud crítica sobre su investigación, reconociendo los aportes y limitaciones metodológicas y éticos de su trabajo y propone recomendaciones para futuras iniciativas en el tema de estudio.      * Resultados de Aprendizaje: Identifica criterios que garantizan la calidad de la investigación y el cumplimiento de consideraciones éticas.**3.2.** Aplica apropiadamente los elementos de la estadística descriptiva, correlacional, regresional, inferencial y multivariada para el análisis de datos de acuerdo a la propuesta de investigación.
 
     Criterios de desempeño
 
@@ -162,7 +162,7 @@ ____
     <td><b>Producto</b></td>
     <td><b>Peso</b></td> </tr>  
 <tr>
-    <td rowspan="5">Correlaciones, proporciones y regresion lineal.</td>
+    <td rowspan="5">Correlaciones, proporciones y regresión lineal.</td>
     <td>Explicación de la introducción de un estudio y cómo este sustenta el propósito del estudio.</td>
      <td>Comprende la relación entre el estado del arte y el planteamiento del propósito del estudio.</td>
     <td>Dado un tema psicológico, el estudiante revisa la literatura y presenta un propósito de estudio pertinente</td>
@@ -270,7 +270,7 @@ ____
     <td>Reporte oral o escrito sobre el sustento estadístico de las pruebas.</td>
     <td>15%</td></tr>  
 <tr>
-    <td>Ejecución de las pruebas utilizando SPSS.Interpretación estadística y psicológica de los resultados.</td>
+    <td>Ejecución de las pruebas utilizando SPSS. Interpretación estadística y psicológica de los resultados.</td>
      <td>Ejecuta el análisis estadístico y lo interpreta psicológicamente.</td>
     <td>Dado un conjunto de datos, el alumno ejecuta las pruebas estadísticas e interpreta los resultados.</td>
     <td>20%</td></tr>   
@@ -347,40 +347,40 @@ La evaluación se realizará de modo continuo a lo largo del semestre académico
 
 **5.2. PRACTICAS CALIFICADAS**
 
-Los alumnos rendirán 5 prácticas calificadas durante el ciclo donde demostrarán su destreza en la identificación de análisis estadísticos pertinentes para la resolución de preguntas de investigación y su habilidada para realizar interpretaciones acertadas que llevarán a una discusión alturada de resultados de investigación. Todas requieren el manejo de los conceptos y el uso del SPSS. Cada práctica contiene todos los elementos vistos desde el inicio hasta la semana de la práctica.
+Los alumnos rendirán 5 prácticas calificadas durante el ciclo donde demostrarán su destreza en la identificación de análisis estadísticos pertinentes para la resolución de preguntas de investigación y su habilidad para realizar interpretaciones acertadas que llevarán a una discusión alturada de resultados de investigación. Todas requieren el manejo de los conceptos y el uso del SPSS. Cada práctica contiene todos los elementos vistos desde el inicio hasta la semana de la práctica.
 
 [INICIO](#beginning)
 <a id='part53'></a>
 
 **5.3. PROYECTOS DE INVESTIGACION**
-Los alumnos deberán presentar un proyecto de investigación que consta de 4 entregas, y la ultima incluye su presentación _en clase_. Deberán construir un marco teórico alineado con la pregunta de investigación a responder y a la metodología propuesta. Cada entrega consta de lo siguiente:
+Los alumnos deberán presentar un proyecto de investigación que consta de 4 entregas, y la última incluye su presentación _en clase_. Deberán construir un marco teórico alineado con la pregunta de investigación a responder y a la metodología propuesta. Cada entrega consta de lo siguiente:
 
 * **Entregable 1**: Introducción. 
-	* Revisión bibliográfica anotada
-	* Posibles preguntas de investigación
-	* Posibles fuentes de datos
-	* Limitaciones
-	* Población de interés
-	* Muestra a seleccionar
+	* Revisión bibliográfica anotada.
+	* Posibles preguntas de investigación.
+	* Posibles fuentes de datos.
+	* Limitaciones.
+	* Población de interés.
+	* Muestra a seleccionar.
 
 	 	
 * **Entregable 2**: Exploración de Datos.
-   * Datos a utilizar
-   * Exploración Univariada y Bivariada 
-   * Hipotesis de interés
+   * Datos a utilizar.
+   * Exploración Univariada y Bivariada. 
+   * Hipótesis de interés.
    
 * **Entregable 3**: Diseño.
-   * Objetivos de la Investigación
-   * Relevancia de la Investigación
-   * Hipotesis principal y auxiliares del trabajo. 
+   * Objetivos de la Investigación.
+   * Relevancia de la Investigación.
+   * Hipótesis principal y auxiliares del trabajo. 
    * Técnicas estadísticas a utilizar.
    * Posible necesidad de técnicas cualitativas complementarias
    
 * **Entregable 4**: Reporte final y Exposición.
-   * Conclusiones
-   * Preguntas para futuras investigaciones
-   * Reporte final integrado
-   * Presentación en slides u otro medio.
+   * Conclusiones.
+   * Preguntas para futuras investigaciones.
+   * Reporte final integrado.
+   * Presentación en _slides_ u otro medio.
    
 La nota estará en función al nivel de cumplimiento del entregable. El profesor **rechazará** un Reporte Final si sus entregables previos no han sido enviados. Al cumplimiento se agrega la calidad de la entrega, la misma que debe respetar las normas APA y de buen lenguaje académico. Los profesores del curso, **en conjunto**, pueden otorgar la máxima nota a un proyecto final cuando este sea exceda las expectativas de creatividad, originalidad e impacto.  
 
@@ -404,9 +404,9 @@ ____
 
 Howell, D. (2017). Fundamental statistics for the behavioral sciences (Ninth edition, student ed.). Boston, MA: Cengage Learning.
 
-Magallanes, Jose Manuel (2012). Tour Guiado por la Estadistica Basica. Pontificia Universidad Católica del Peru.
+Magallanes, José Manuel (2012). Tour Guiado por la Estadística Básica. Pontificia Universidad Católica del Peru.
 
-Magallanes, Jose (2017). Introduction to Data Science for Social and Policy Research. Cambridge University Press.
+Magallanes, José Manuel (2017). Introduction to Data Science for Social and Policy Research. Cambridge University Press.
 
 Rasch, D., Kubinger, Klaus D., & Yanagida, Takuya. (2011). Statistics in psychology using R and SPSS. Chichester, West Sussex, UK: John Wiley & Sons.
 
@@ -414,7 +414,7 @@ Rasch, D., Kubinger, Klaus D., & Yanagida, Takuya. (2011). Statistics in psychol
 
 * LECTURAS PARA CLASE
 
-Cada sesión tendrá diversos materiales de lectura de libre disponibilidad. Se entregará tal material segun se avance en el curso. Las lecturas deben por lo general ser leidas antes de clase.
+Cada sesión tendrá diversos materiales de lectura de libre disponibilidad. Se entregará tal material según se avance en el curso. Las lecturas deben por lo general ser leídas antes de clase.
 
 
 [INICIO](#beginning)
@@ -435,7 +435,7 @@ ____
  	<td>1</td>
  	<td>14/Ago</td>
  	<td>19/Ago</td>
- 	<td rowspan="3">Descriptiva</td>
+ 	<td rowspan="3">Estadística y Psicología</td>
  	<td> Psicología Cuantitativa</td>
  	<td> Revisión del Syllabus. 
  	<br> Discusión sobre rol de los enfoques cuantitativos en la Psicología.</br> 
@@ -448,7 +448,7 @@ ____
  	<td>2</td>
  	<td>21/Ago</td>
  	<td>26/Ago</td>
- 	<td>Exploración de Datos y Detección de Hipotesis</td>
+ 	<td>Exploración de Datos y Formulación de Hipótesis</td>
  	<td>Elementos del Análisis Exploratorio de Datos (AED).
  	Formulación de hipótesis a partir del AED.
  	<br>Población y Elección de MuestrasPráctica dirigida sobre uso de SPSS.</br></td>
@@ -459,7 +459,7 @@ ____
  	<td>28/Ago</td>
  	<td>02/Sep</td>
  	<td>Investigación y Reglas APA</td>
- 	<td>Reglas APA en los reportes estadíticos.
+ 	<td>Reglas APA en los reportes estadísticos.
  	<br><b>Asesoría para Entregable 1</b>.<br><b>Práctica Calificada 1</b>. </br>	</td>
  </tr>
  
@@ -488,7 +488,7 @@ ____
  	<td>6</td>
  	<td>18/Sep</td>
  	<td>23/Sep</td>
- 	<td rowspan="2">Proporciones y Tablas de Contigencia</td>
+ 	<td rowspan="2">Tablas de Contingencia y Proporciones </td>
  	<td>Asociación Bivariada entre Categóricas</td>
  	<td>Construcción de Tablas de Contingencia.
  	<br>Prueba Chi Cuadrado para diversos casos.
@@ -510,8 +510,8 @@ ____
  	<td>07/oct</td>
  	<td colspan="2" rowspan="2"><b>EXAMENES PARCIALES</b></td>
  	<td>Clase de Repaso: integración de unidades previas.
- 	<br><b>Asesoria Entregable 2</b>.
- 	<br><b>Asesoria Diario Reflexivo 1</b>.</br>  
+ 	<br><b>Asesoría Entregable 2</b>.
+ 	<br><b>Asesoría Diario Reflexivo 1</b>.</br>  
  	</td>
  </tr>
  <tr>
@@ -536,9 +536,9 @@ ____
  	<td>11</td>
  	<td>23/Oct</td>
  	<td>28/Oct</td>
- 	<td>Regresión Multivariada con dummies y introducción a la regresión Logística</td>
- 	<td>Regresion Multivariada con variables independientes categóricas.       <br>Modelamiento de variables categóricas.
-       <br>Regresión con dummy y Logistica en SPSS.</br>
+ 	<td>Regresión Multivariada con 'dummies' e introducción a la regresión Logística</td>
+ 	<td>Regresión Multivariada con variables independientes categóricas.       <br>Modelamiento de variables categóricas.
+       <br>Regresión con "dummies' y Logística en SPSS.</br>
  	</td>
  </tr>
  
@@ -548,10 +548,10 @@ ____
  	<td>30/Oct</td>
  	<td>04/Nov</td>
  	<td>Regresión y Ecuaciones Estructurales</td>
- 	<td>Regresión y Path Analysis.       <br>Discusión del concepto de Variables Latentes.
+ 	<td>Regresión y 'Path Analysis'.       <br>Discusión del concepto de Variables Latentes.
        <br>Modelos de Ecuaciones Estructurales en Psicología.
-       <b>Asesoria Entregable 3</b>.
-       <br><b>Practica Calificada 4</b>.</br>
+       <b>Asesoría Entregable 3</b>.
+       <br><b>Práctica Calificada 4</b>.</br>
  	</td>
  </tr>
  
@@ -561,8 +561,8 @@ ____
  	<td>11/Nov</td>
  	<td colspan="2">Encuesta de Opinión Docente</td>
  	<td><b>Entregable 3</b>
- 	<br>Practica Dirigida.
- 	<br><b>Asesoria Diario Reflexivo 2</b>.</br></td>
+ 	<br>Práctica Dirigida.
+ 	<br><b>Asesoría Diario Reflexivo 2</b>.</br></td>
  </tr>
  
  <tr>
@@ -581,7 +581,7 @@ ____
  	<td>25/Nov</td>
  	<td>Análisis Factorial Confirmatorio (AFC)</td>
  	<td>Introducción al AFC.    <br>Análisis Factorial y Regresión.
-    Practica Dirigida.</br></td>
+    Práctica Dirigida.</br></td>
  </tr>
  
   <tr>
@@ -589,7 +589,7 @@ ____
  	<td>27/Nov</td>
  	<td>02/Dic</td>
  	<td colspan="2" rowspan="2">Cierre de Clases</td>
- 	<td><b>Practica Calificada 5</b>: Todo el curso.
+ 	<td><b>Práctica Calificada 5</b>: Todo el curso.
  	<br><b>Entregable 4</b>.</br>
  	</td>
  </tr>
