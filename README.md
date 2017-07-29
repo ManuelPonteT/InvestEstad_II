@@ -285,9 +285,78 @@ Es un curso instrumental-metodológico de carácter teórico-práctico, en el qu
 
 </table>
 
-### 5. Fórmula de evaluación 
+### 5. Evaluación
 
-### 6. Referencias bibliográficas
+La evaluación se realizará de modo continuo a lo largo del semestre académico y considera los siguientes componentes:
+
+**5.1. Diario Reflexivo**El alumno deberá un diario reflexivo que consta de 2 entregas, el cual deberá constar de un capítulo por análisis estadístico estudiado. El objetivo de este diario reflexivo es que el alumno presente de modo creativo cada uno de los acápites vistos en el curso acompañados de ideas de investigación que podrían vincularse a dichos análisis estadísticos. El alumno deberá usar  su experiencia personal y los conocimientos adquiridos en otros cursos de la especialidad para lograr un uso aplicado de la estadística en el campo de la psicología. Es importante mencionar que los problemas de investigación planteados tengan un marco teórico sustentado.El formato es completamente libre (escrito, audiovisual entre otros). Se evaluará la pertinencia de los problemas de investigación planteados y el nivel de comprensión del alumno acerca de los temas estudiados durante el curso. Por cada capítulo del diario reflexivo, el alumno deberá responder las siguientes preguntas.* ¿Qué es?
+* ¿Cuáles son los conceptos fundamentales para entender dicho análisis?
+* ¿Para qué sirve?
+* ¿Qué problemas de investigación (de interés del alumno) podrían resolverse con dicho análisis?
+* ¿Este análisis estadístico es útil y porque?
+
+
+**5.2. Prácticas Calificadas**
+
+Los alumnos rendirán 5 prácticas calificadas durante el ciclo donde demostrarán su destreza en la identificación de análisis estadísticos pertinentes para la resolución de preguntas de investigación y su habilidada para realizar interpretaciones acertadas que llevarán a una discusión alturada de resultados de investigación. Todas requieren el manejo de los conceptos y el uso del SPSS. Cada práctica contiene todos los elementos vistos desde el inicio hasta la semana de la práctica.
+
+**5.3. Proyecto de investigación**
+Los alumnos deberán presentar un proyecto de investigación que consta de 4 entregas, y la ultima incluye su presentación _en clase_. Deberán construir un marco teórico alineado con la pregunta de investigación a responder y a la metodología propuesta. Cada entrega consta de lo siguiente:
+
+* **Entregable 1**: Introducción. 
+	* Revisión bibliográfica anotada
+	* Posibles preguntas de investigación
+	* Posibles fuentes de datos
+	* Limitaciones
+	* Población de interés
+	* Muestra a seleccionar
+
+	 	
+* **Entregable 2**: Exploración de Datos.
+   * Datos a utilizar
+   * Exploración Univariada y Bivariada 
+   * Hipotesis de interés
+   
+* **Entregable 3**: Diseño.
+   * Objetivos de la Investigación
+   * Relevancia de la Investigación
+   * Hipotesis principal y auxiliares del trabajo. 
+   * Técnicas estadísticas a utilizar.
+   * Posible necesidad de técnicas cualitativas complementarias
+   
+* **Entregable 4**: Reporte final y Exposición.
+   * Conclusiones
+   * Preguntas para futuras investigaciones
+   * Reporte final integrado
+   * Presentación en slides u otro medio.
+   
+La nota estará en función al nivel de cumplimiento del entregable. El profesor **rechazará** un Reporte Final si sus entregables previos no han sido enviados. Al cumplimiento se agrega la calidad de la entrega, la misma que debe respetar las normas APA y de buen lenguaje académico. Los profesores del curso, **en conjunto**, pueden otorgar la máxima nota a un proyecto final cuando este sea exceda las expectativas de creatividad, originalidad e impacto.  
+
+**5.4.** FORMULA
+
+1. **DIARIO REFLEXIVO**. Demuestra resultados de aprendizaje en teoría estadística y Psicología Cuantitativa:
+        (Diario Reflexivo 1 + Diario Reflexivo 2) = DR Total2. **PRACTICAS CALIFICADAS**. Demuestra resultados de aprendizaje en la utilización del SPSS:
+
+        (PC1 + PC2 + PC3 + PC4 + PC5)= PC TOTAL3. **ENTREGABLES**. Demuestra resultados de aprendizaje en sinergia entre Investigación Psicológica y la instrumentalización de la estadística:
+         (Entrega 1 + Entrega 2 + Entrega 3 + Entrega 4)= PI TOTALDe donde:        Promedio Final= (PI TOTAL*(30) + PC TOTAL*(40) + DR TOTAL*(30))/100 
+
+### 6. Bibliografía Básica
+
+* LIBROS DE CONSULTA 
+
+Howell, D. (2017). Fundamental statistics for the behavioral sciences (Ninth edition, student ed.). Boston, MA: Cengage Learning.
+
+Rasch, D., Kubinger, Klaus D., & Yanagida, Takuya. (2011). Statistics in psychology using R and SPSS. Chichester, West Sussex, UK: John Wiley & Sons.
+
+Magallanes, Jose Manuel (2012). Tour Guiado por la Estadistica Basica. Pontificia Universidad Católica del Peru.
+
+Magallanes, Jose (2017). Introduction to Data Science for Social and Policy Research. Cambridge University Press.
+
+
+* LECTURAS PARA CLASE
+
+Cada sesión tendrá diversos materiales de lectura de libre disponibilidad. Se entregará tal material segun se avance en el curso. Las lecturas deben por lo general ser leidas antes de clase.
+
 
 ### 7. Calendario 2017 -2
 
@@ -419,7 +488,8 @@ Es un curso instrumental-metodológico de carácter teórico-práctico, en el qu
  	<td>04/Nov</td>
  	<td>Regresión y Ecuaciones Estructurales</td>
  	<td>Regresión y Path Analysis.       <br>Discusión del concepto de Variables Latentes.
-       <br>Modelos de Ecuaciones Estructurales en Psicología.</br>
+       <br>Modelos de Ecuaciones Estructurales en Psicología.
+       <br><b>Practica Calificada 4</b></br>
  	</td>
  </tr>
  
@@ -450,10 +520,7 @@ Es un curso instrumental-metodológico de carácter teórico-práctico, en el qu
  	<td>25/Nov</td>
  	<td>Análisis Factorial Confirmatorio (AFC)</td>
  	<td>Introducción al AFC.    <br>Análisis Factorial y Regresión
-    <br>Practica Dirigida
-    </br>
-       
- 	</td>
+    <br>Practica Dirigida</br></td>
  </tr>
  
   <tr>
@@ -461,7 +528,7 @@ Es un curso instrumental-metodológico de carácter teórico-práctico, en el qu
  	<td>27/Nov</td>
  	<td>02/Dic</td>
  	<td colspan="2" rowspan="2">Cierre de Clases</td>
- 	<td><b>Practica Calificada</b>: Todo el curso.
+ 	<td><b>Practica Calificada 5</b>: Todo el curso.
  	<br><b>Asesoria</b>: Diario Reflexivo.
  	<br><b>Entrega y Presentación</b>: Proyectos Finales</br>
  	</td>
@@ -487,6 +554,8 @@ Es un curso instrumental-metodológico de carácter teórico-práctico, en el qu
       
 </table>
 
+
+**IMPORTANTE**: El calendario del curso podrá modificarse si la marcha de la asignatura lo requiere. En ese caso, el profesor dará oportuno aviso a los estudiantes, a la Dirección de Estudios y a la Secretaría Académica de la Facultad. En ningún caso se modificará la sumilla del curso.
 
 <sup id="fn1">1</sup>Feriado (30 de Agosto)<a href="#ref1" >&#8593;</a>
 
