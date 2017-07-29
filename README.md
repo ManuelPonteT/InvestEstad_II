@@ -442,8 +442,7 @@ Cada sesión tendrá diversos materiales de lectura de libre disponibilidad. Se 
  	<td>Contrastes sobre proporciones</td>
  	<td>Proporciones univariadas y bivariadas.       <br> Contrastes para proporciones independientes y relacionadas.
        <br>Uso del SPSS para contrastar proporciones.
-       <br><b>Práctica Calificada 3</b></br>
- 	</td>
+       <br><b>Práctica Calificada 3</b></br></td>
  </tr>
 <tr>
  	<td>8</td>
@@ -452,7 +451,7 @@ Cada sesión tendrá diversos materiales de lectura de libre disponibilidad. Se 
  	<td colspan="2" rowspan="2"><b>EXAMENES PARCIALES</b></td>
  	<td>Clase de Repaso: integración de unidades previas.
  	<br><b>Asesoria Entregable 2</b>.
- 	<b>Asesoria Diario Reflexivo 1</b>.</br>  
+ 	<br><b>Asesoria Diario Reflexivo 1</b>.</br>  
  	</td>
  </tr>
  <tr>
@@ -503,9 +502,7 @@ Cada sesión tendrá diversos materiales de lectura de libre disponibilidad. Se 
  	<td colspan="2">Encuesta de Opinión Docente</td>
  	<td><b>Entregable 3</b>
  	<br>Practica Dirigida.
- 	<br><b>Asesoria Diario Reflexivo 2</b>.</br>
- 	
- 	</td>
+ 	<br><b>Asesoria Diario Reflexivo 2</b>.</br></td>
  </tr>
  
  <tr>
