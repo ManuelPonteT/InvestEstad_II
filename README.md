@@ -43,7 +43,7 @@ ____
 	- __Psi. Pamela Núñez Del Prado Chaves__ ([pamela.nunezdelprado@pucp.pe](mailto:pamela.nunezdelprado@pucp.pe)) 
 * Asistentes:
 	- __Lic. Marylia Cruz__ ([marylia.cruz@pucp.pe](mailto:marylia.cruz@pucp.pe))
-	- __Lic. Francisco Morote__ ([fjmorote@pucp.pe](mailto:fjmorote@pucp.pe))[Inicio](#beginning)
+	- __Lic. Francisco Morote__ ([fjmorote@pucp.pe](mailto:fjmorote@pucp.pe))[INICIO](#beginning)
 ____
 <a id='part2'></a>
 ### 2. Sumilla
@@ -51,7 +51,7 @@ ____
 Es un curso instrumental-metodológico de carácter teórico-práctico, en el que el estudiante identifica un fenómeno que puede ser estudiado con métodos no experimentales. Planifica y ejecuta un plan de investigación con coherencia epistemológica, metodológica y ética; para ello, plantea el propósito del estudio, selecciona el método no experimental pertinente, conduce rigurosamente la investigación; analiza y discute los resultados, y redacta y expone un reporte del estudio.
 
 
-[Inicio](#beginning)
+[INICIO](#beginning)
 ____
 <a id='part3'></a>
 
