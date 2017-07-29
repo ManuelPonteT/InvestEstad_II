@@ -1,4 +1,4 @@
-![Alt text](https://dci.pucp.edu.pe/wp-content/uploads/2014/02/logotipo-100anios-color-290x109.gif )
+![Alt text](logotipo-100anios.png)
 
 # Pontificia Universidad Católica del Perú
 ## Facultad de Psicología
