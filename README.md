@@ -25,7 +25,6 @@
 7. [Calendario](#part7)
    
 
-[Inicio](#beginning)
 ____
 <a id='part1'></a>
 ### 1. Información General
@@ -337,7 +336,7 @@ ____
 
 La evaluación se realizará de modo continuo a lo largo del semestre académico y considera los siguientes componentes:
 
-**5.1. Diario Reflexivo**El alumno deberá un diario reflexivo que consta de 2 entregas, el cual deberá constar de un capítulo por análisis estadístico estudiado. El objetivo de este diario reflexivo es que el alumno presente de modo creativo cada uno de los acápites vistos en el curso acompañados de ideas de investigación que podrían vincularse a dichos análisis estadísticos. El alumno deberá usar  su experiencia personal y los conocimientos adquiridos en otros cursos de la especialidad para lograr un uso aplicado de la estadística en el campo de la psicología. Es importante mencionar que los problemas de investigación planteados tengan un marco teórico sustentado.El formato es completamente libre (escrito, audiovisual entre otros). Se evaluará la pertinencia de los problemas de investigación planteados y el nivel de comprensión del alumno acerca de los temas estudiados durante el curso. Por cada capítulo del diario reflexivo, el alumno deberá responder las siguientes preguntas.* ¿Qué es?
+**5.1. DIARIO REFLEXIVO**El alumno deberá un diario reflexivo que consta de 2 entregas, el cual deberá constar de un capítulo por análisis estadístico estudiado. El objetivo de este diario reflexivo es que el alumno presente de modo creativo cada uno de los acápites vistos en el curso acompañados de ideas de investigación que podrían vincularse a dichos análisis estadísticos. El alumno deberá usar  su experiencia personal y los conocimientos adquiridos en otros cursos de la especialidad para lograr un uso aplicado de la estadística en el campo de la psicología. Es importante mencionar que los problemas de investigación planteados tengan un marco teórico sustentado.El formato es completamente libre (escrito, audiovisual entre otros). Se evaluará la pertinencia de los problemas de investigación planteados y el nivel de comprensión del alumno acerca de los temas estudiados durante el curso. Por cada capítulo del diario reflexivo, el alumno deberá responder las siguientes preguntas.* ¿Qué es?
 * ¿Cuáles son los conceptos fundamentales para entender dicho análisis?
 * ¿Para qué sirve?
 * ¿Qué problemas de investigación (de interés del alumno) podrían resolverse con dicho análisis?
@@ -346,14 +345,14 @@ La evaluación se realizará de modo continuo a lo largo del semestre académico
 <a id='part52'></a>
 
 
-**5.2. Prácticas Calificadas**
+**5.2. PRACTICAS CALIFICADAS**
 
 Los alumnos rendirán 5 prácticas calificadas durante el ciclo donde demostrarán su destreza en la identificación de análisis estadísticos pertinentes para la resolución de preguntas de investigación y su habilidada para realizar interpretaciones acertadas que llevarán a una discusión alturada de resultados de investigación. Todas requieren el manejo de los conceptos y el uso del SPSS. Cada práctica contiene todos los elementos vistos desde el inicio hasta la semana de la práctica.
 
 [INICIO](#beginning)
 <a id='part53'></a>
 
-**5.3. Proyecto de investigación**
+**5.3. PROYECTOS DE INVESTIGACION**
 Los alumnos deberán presentar un proyecto de investigación que consta de 4 entregas, y la ultima incluye su presentación _en clase_. Deberán construir un marco teórico alineado con la pregunta de investigación a responder y a la metodología propuesta. Cada entrega consta de lo siguiente:
 
 * **Entregable 1**: Introducción. 
@@ -388,7 +387,7 @@ La nota estará en función al nivel de cumplimiento del entregable. El profesor
 [INICIO](#beginning)
 <a id='part54'></a>
 
-**5.4.** FORMULA
+**5.4. FORMULA** 
 
 1. **DIARIO REFLEXIVO**. Demuestra resultados de aprendizaje en teoría estadística y Psicología Cuantitativa:
         (Diario Reflexivo 1 + Diario Reflexivo 2) = DR Total2. **PRACTICAS CALIFICADAS**. Demuestra resultados de aprendizaje en la utilización del SPSS:
@@ -623,3 +622,5 @@ ____
 <sup id="fn2">2</sup>Feriado (1 de Noviembre)<a href="#ref2">&#8593;</a>
 
 <sup id="fn3">3</sup>Feriado (8 de Diciembre) <a href="#ref3">&#8593;</a>
+
+[INICIO](#beginning)
