@@ -3,6 +3,31 @@
 # Pontificia Universidad Católica del Perú
 ## Facultad de Psicología
 
+<a id='beginning'></a>
+### Contenidos
+1. [Información General](#part1) 
+2. [Sumilla](#part2) 
+3. [Aporte del curso al perfil de egreso](#part3) 
+4. [Resultados de aprendizaje del curso](#part41) 
+   * [Unidad 1: Estadistica y Psicologia](#part41)
+   * [Unidad 2: Correlación y Regresión Simple](#part42)
+   * [Unidad 3: Proporciones y Tablas de Contingencia](#part43)
+   * [Unidad 4: Modelos Multivariados](#part44)
+   * [Unidad 4: Reducción de Dimensiones](#part45)  
+
+5. [Evaluación](#part51)
+   * [Diario Reflexivo](#part51)
+   * [Prácticas Calificadas](#part52)
+   * [Proyecto de Investigación](#part53)
+   * [Formula](#part54)
+
+6. [Bibliografía Básica](#part6)
+7. [Calendario](#part7)
+   
+
+[Inicio](#beginning)
+____
+<a id='part1'></a>
 ### 1. Información General
 
 
@@ -19,10 +44,17 @@
 	- __Psi. Pamela Núñez Del Prado Chaves__ ([pamela.nunezdelprado@pucp.pe](mailto:pamela.nunezdelprado@pucp.pe)) 
 * Asistentes:
 	- __Lic. Marylia Cruz__ ([marylia.cruz@pucp.pe](mailto:marylia.cruz@pucp.pe))
-	- __Lic. Francisco Morote__ ([fjmorote@pucp.pe](mailto:fjmorote@pucp.pe))### 2. Sumilla
+	- __Lic. Francisco Morote__ ([fjmorote@pucp.pe](mailto:fjmorote@pucp.pe))[Inicio](#beginning)
+____
+<a id='part2'></a>
+### 2. Sumilla
 
 Es un curso instrumental-metodológico de carácter teórico-práctico, en el que el estudiante identifica un fenómeno que puede ser estudiado con métodos no experimentales. Planifica y ejecuta un plan de investigación con coherencia epistemológica, metodológica y ética; para ello, plantea el propósito del estudio, selecciona el método no experimental pertinente, conduce rigurosamente la investigación; analiza y discute los resultados, y redacta y expone un reporte del estudio.
 
+
+[Inicio](#beginning)
+____
+<a id='part3'></a>
 
 ### 3. Aporte del curso al perfil de egreso:
 
@@ -65,7 +97,10 @@ Es un curso instrumental-metodológico de carácter teórico-práctico, en el qu
       * Resultados de Aprendizaje: 
          - Conoce técnicas y procedimientos estadísticos pertinentes para el análisis de los resultados según el tipo de investigación.
          - Selecciona distintas técnicas y procedimientos de la estadística para el análisis de los datos según el tipo de investigación.
-         - Aplica adecuadamente técnicas y procedimientos estadísticos según el tipo y propósito de la investigación. ### 4. Resultados de aprendizaje del curso:
+         - Aplica adecuadamente técnicas y procedimientos estadísticos según el tipo y propósito de la investigación. [INICIO](#beginning)
+____
+<a id='part41'></a>
+### 4. Resultados de aprendizaje del curso:
 
 **4.1 Analizar información descriptiva, utilizando la estadística**
 
@@ -114,8 +149,8 @@ Es un curso instrumental-metodológico de carácter teórico-práctico, en el qu
 
 
 
-
-
+[INICIO](#beginning)
+<a id='part42'></a>
 
 **4.2 Aplica e interpreta las correlaciones y la regresión lineal en la investigación psicológica.**
 
@@ -163,8 +198,53 @@ Es un curso instrumental-metodológico de carácter teórico-práctico, en el qu
 </table>
 
 
+[INICIO](#beginning)
+<a id='part43'></a>
 
-**4.3. Aplica e interpreta la regresión múltiple en la investigación psicológica. Lee resultados de estudios realizados con modelos de ecuaciones estructurales**
+
+**4.3. Aplica e interpreta las tablas y el chi cuadrado en la investigación psicológica**
+
+
+<table>
+  <tr>
+    <td><b>Contenidos</b></td>
+    <td><b>Recursos metodológicos y actividades</b></td>
+    <td><b>Criterios de desempeño</b></td>
+    <td><b>Producto</b></td>
+    <td><b>Peso</b></td> </tr>  
+<tr>
+    <td rowspan="5">Tablas y Chi cuadrado</td>
+    <td>Explicación de la introducción de un estudio y cómo este sustenta el propósito del estudio.</td>
+     <td>Comprende la relación entre el estado del arte y el planteamiento del propósito del estudio</td>
+    <td>Dado un tema psicológico, el estudiante revisa la literatura y presenta un propósito de estudio pertinente</td>
+    <td >20%</td></tr>  
+<tr>
+    <td>Explicación de cómo el propósito del estudio lleva a un diseño metodológico que implica tablas y chi cuadrado.</td>
+     <td>Comprende la relación entre el propósito del estudio y el diseño metodológico, con énfasis en el análisis estadístico</td>
+    <td>Dado un propósito de estudio, el estudiante diseña un método en donde resultan pertinentes las tablas y la chi cuadrado  </td>
+    <td >20%</td></tr>    
+<tr>
+    <td>Explicación del sustento estadístico de las tablas y la chi cuadrado.</td>
+     <td>Comprende la fórmula, los alcances y limitaciones de las pruebas estadísticas revisadas.</td>
+    <td>Reporte oral o escrito sobre el sustento estadístico de las pruebas.</td>
+    <td >20%</td></tr>
+<tr>
+    <td>Ejecución de las pruebas utilizando SPSS.Interpretación estadística y psicológica de los resultados.</td>
+     <td>Ejecuta el análisis estadístico y lo interpreta psicológicamente.</td>
+    <td>Dado un conjunto de datos, el alumno ejecuta las pruebas estadísticas e interpreta los resultados.</td>
+    <td >20%</td></tr>   
+<tr>
+    <td>Contraste de resultados con la literatura pertinente.</td>
+     <td>Discute los resultados en el contexto de estudios similares.</td>
+    <td>El estudiante revisa la literatura pertinente y discute los resultados.</td>
+    <td >20%</td></tr>
+  
+</table>
+
+[INICIO](#beginning)
+<a id='part44'></a>
+
+**4.4 Aplica e interpreta la regresión múltiple en la investigación psicológica. Lee resultados de estudios realizados con modelos de ecuaciones estructurales**
 
 
 <table>
@@ -214,47 +294,8 @@ Es un curso instrumental-metodológico de carácter teórico-práctico, en el qu
 </table>
 
 
-
-**4.4 Aplica e interpreta las tablas y el chi cuadrado en la investigación psicológica**
-
-
-<table>
-  <tr>
-    <td><b>Contenidos</b></td>
-    <td><b>Recursos metodológicos y actividades</b></td>
-    <td><b>Criterios de desempeño</b></td>
-    <td><b>Producto</b></td>
-    <td><b>Peso</b></td> </tr>  
-<tr>
-    <td rowspan="5">Tablas y Chi cuadrado</td>
-    <td>Explicación de la introducción de un estudio y cómo este sustenta el propósito del estudio.</td>
-     <td>Comprende la relación entre el estado del arte y el planteamiento del propósito del estudio</td>
-    <td>Dado un tema psicológico, el estudiante revisa la literatura y presenta un propósito de estudio pertinente</td>
-    <td >20%</td></tr>  
-<tr>
-    <td>Explicación de cómo el propósito del estudio lleva a un diseño metodológico que implica tablas y chi cuadrado.</td>
-     <td>Comprende la relación entre el propósito del estudio y el diseño metodológico, con énfasis en el análisis estadístico</td>
-    <td>Dado un propósito de estudio, el estudiante diseña un método en donde resultan pertinentes las tablas y la chi cuadrado  </td>
-    <td >20%</td></tr>    
-<tr>
-    <td>Explicación del sustento estadístico de las tablas y la chi cuadrado.</td>
-     <td>Comprende la fórmula, los alcances y limitaciones de las pruebas estadísticas revisadas.</td>
-    <td>Reporte oral o escrito sobre el sustento estadístico de las pruebas.</td>
-    <td >20%</td></tr>
-<tr>
-    <td>Ejecución de las pruebas utilizando SPSS.Interpretación estadística y psicológica de los resultados.</td>
-     <td>Ejecuta el análisis estadístico y lo interpreta psicológicamente.</td>
-    <td>Dado un conjunto de datos, el alumno ejecuta las pruebas estadísticas e interpreta los resultados.</td>
-    <td >20%</td></tr>   
-<tr>
-    <td>Contraste de resultados con la literatura pertinente.</td>
-     <td>Discute los resultados en el contexto de estudios similares.</td>
-    <td>El estudiante revisa la literatura pertinente y discute los resultados.</td>
-    <td >20%</td></tr>
-  
-</table>
-
-
+[INICIO](#beginning)
+<a id='part45'></a>
 
 **4.5 Aplica e interpreta la reducción de dimensiones de manera básica**
 
@@ -287,6 +328,11 @@ Es un curso instrumental-metodológico de carácter teórico-práctico, en el qu
 
 </table>
 
+[INICIO](#beginning)
+____
+<a id='part51'></a>
+
+
 ### 5. Evaluación
 
 La evaluación se realizará de modo continuo a lo largo del semestre académico y considera los siguientes componentes:
@@ -296,11 +342,16 @@ La evaluación se realizará de modo continuo a lo largo del semestre académico
 * ¿Para qué sirve?
 * ¿Qué problemas de investigación (de interés del alumno) podrían resolverse con dicho análisis?
 * ¿Este análisis estadístico es útil y porque?
+[INICIO](#beginning)
+<a id='part52'></a>
 
 
 **5.2. Prácticas Calificadas**
 
 Los alumnos rendirán 5 prácticas calificadas durante el ciclo donde demostrarán su destreza en la identificación de análisis estadísticos pertinentes para la resolución de preguntas de investigación y su habilidada para realizar interpretaciones acertadas que llevarán a una discusión alturada de resultados de investigación. Todas requieren el manejo de los conceptos y el uso del SPSS. Cada práctica contiene todos los elementos vistos desde el inicio hasta la semana de la práctica.
+
+[INICIO](#beginning)
+<a id='part53'></a>
 
 **5.3. Proyecto de investigación**
 Los alumnos deberán presentar un proyecto de investigación que consta de 4 entregas, y la ultima incluye su presentación _en clase_. Deberán construir un marco teórico alineado con la pregunta de investigación a responder y a la metodología propuesta. Cada entrega consta de lo siguiente:
@@ -334,13 +385,19 @@ Los alumnos rendirán 5 prácticas calificadas durante el ciclo donde demostrar�
    
 La nota estará en función al nivel de cumplimiento del entregable. El profesor **rechazará** un Reporte Final si sus entregables previos no han sido enviados. Al cumplimiento se agrega la calidad de la entrega, la misma que debe respetar las normas APA y de buen lenguaje académico. Los profesores del curso, **en conjunto**, pueden otorgar la máxima nota a un proyecto final cuando este sea exceda las expectativas de creatividad, originalidad e impacto.  
 
+[INICIO](#beginning)
+<a id='part54'></a>
+
 **5.4.** FORMULA
 
 1. **DIARIO REFLEXIVO**. Demuestra resultados de aprendizaje en teoría estadística y Psicología Cuantitativa:
         (Diario Reflexivo 1 + Diario Reflexivo 2) = DR Total2. **PRACTICAS CALIFICADAS**. Demuestra resultados de aprendizaje en la utilización del SPSS:
 
         (PC1 + PC2 + PC3 + PC4 + PC5)= PC TOTAL3. **ENTREGABLES**. Demuestra resultados de aprendizaje en sinergia entre Investigación Psicológica y la instrumentalización de la estadística:
-         (Entrega 1 + Entrega 2 + Entrega 3 + Entrega 4)= PI TOTALDe donde:        Promedio Final= (PI TOTAL*(30) + PC TOTAL*(40) + DR TOTAL*(30))/100 
+         (Entrega 1 + Entrega 2 + Entrega 3 + Entrega 4)= PI TOTALDe donde:        Promedio Final= (PI TOTAL*(30) + PC TOTAL*(40) + DR TOTAL*(30))/100[INICIO](#beginning)
+____
+<a id='part6'></a>
+
 
 ### 6. Bibliografía Básica
 
@@ -360,6 +417,10 @@ Rasch, D., Kubinger, Klaus D., & Yanagida, Takuya. (2011). Statistics in psychol
 
 Cada sesión tendrá diversos materiales de lectura de libre disponibilidad. Se entregará tal material segun se avance en el curso. Las lecturas deben por lo general ser leidas antes de clase.
 
+
+[INICIO](#beginning)
+____
+<a id='part7'></a>
 
 ### 7. Calendario 2017 -2
 
