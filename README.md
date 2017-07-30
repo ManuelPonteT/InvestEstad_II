@@ -438,7 +438,8 @@ ____
  	<td rowspan="3">Estadística y Psicología</td>
  	<td> Psicología Cuantitativa</td>
  	<td> Revisión del Syllabus. 
- 	<br> Discusión sobre rol de los enfoques cuantitativos en la Psicología.</br> 
+ 	<br> Discusión sobre rol de los enfoques cuantitativos en la Psicología.
+ 	<br>Proceso de Investigación.</br> 
  	</td>
  </tr>
  
@@ -450,8 +451,7 @@ ____
  	<td>26/Ago</td>
  	<td>Exploración de Datos y Formulación de Hipótesis</td>
  	<td>Elementos del Análisis Exploratorio de Datos (AED).
- 	Formulación de hipótesis a partir del AED.
- 	<br>Población y Elección de MuestrasPráctica dirigida sobre uso de SPSS.</br></td>
+ 	<br>Operacionalización de hipótesis a partir del AED.<br>Práctica dirigida sobre uso de SPSS.</br></td>
  </tr>
  
   <tr>
