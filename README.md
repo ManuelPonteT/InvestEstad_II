@@ -526,7 +526,7 @@ ____
  	<td>10</td>
  	<td>16/Oct</td>
  	<td>21/Oct</td>
- 	<td rowspan="3">Modelos Multivariados</td>
+ 	<td rowspan="2">Regresión Multivariada</td>
  	<td>Regresión Multivariada</td>
  	<td>Determinación  de modelos multivariados.
  	<br>Interpretación de modelos multivariados en SPSS.</br> 
@@ -547,12 +547,10 @@ ____
  	<td>12<sup><a href="#fn2" id="ref2">2</a></sup></td>
  	<td>30/Oct</td>
  	<td>04/Nov</td>
- 	<td>Regresión y Ecuaciones Estructurales</td>
- 	<td>Regresión y 'Path Analysis'.       <br>Discusión del concepto de Variables Latentes.
-       <br>Modelos de Ecuaciones Estructurales en Psicología.
-       <b>Asesoría Entregable 3</b>.
-       <br><b>Práctica Calificada 4</b>.</br>
- 	</td>
+ 	<td>Reducción de Dimensiones</td>
+ 	<td>Análisis Factorial Exploratorio (AFE)</td>
+ 	<td>Reducción de Dimensiones y AFE.
+ 	<br>AFE en SPSS.</br> </td>
  </tr>
  
  <tr>
@@ -569,19 +567,17 @@ ____
  	<td>14</td>
  	<td>13/Nov</td>
  	<td>18/Nov</td>
- 	<td rowspan="2">Reducción de Dimensiones</td>
- 	<td>Análisis Factorial Exploratorio (AFE)</td>
- 	<td>Reducción de Dimensiones y AFE.
- 	<br>AFE en SPSS.</br> 
- 	</td>
+ 	<td>Reducción de Dimensiones</td>
+ 	<td>Análisis Factorial Confirmatorio (AFC) y Ecuaciones estructurales</td>
+ 	<td>Introducción al AFC.    <br>Introducción a las Ecuaciones Estructurales.
+    Práctica Dirigida.</br></td>
  </tr>
 <tr>
  	<td>15</td>
  	<td>20/Nov</td>
  	<td>25/Nov</td>
- 	<td>Análisis Factorial Confirmatorio (AFC)</td>
- 	<td>Introducción al AFC.    <br>Análisis Factorial y Regresión.
-    Práctica Dirigida.</br></td>
+ 	<td colspan="3">REPASO Y ASESORIA</td>
+ 	
  </tr>
  
   <tr>
